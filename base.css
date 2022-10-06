@@ -1,4 +1,51 @@
 body {
     background-color: rgb(182, 182, 182);
     max-width: 1280px;
+    margin: auto;
+}
+
+article {
+    display: grid;
+    column-gap: 50px;
+    
+    
+}
+.logo {
+    background-color: grey;
+    
+    
+
+}
+
+nav {
+    background-color: grey;
+    
+    
+
+}
+
+header {
+    background-color: grey;
+    
+    
+
+}
+
+aside {
+    background-color: gray;
+    
+    
+
+}
+
+.bodyarea {
+    background-color: grey;
+    
+}
+
+footer {
+    background-color: grey;
+    
+   
+
 }
